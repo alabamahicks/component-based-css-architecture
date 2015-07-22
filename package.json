@@ -1,0 +1,15 @@
+{
+  "name": "component-based-css-architecture",
+  "version": "0.1.0",
+  "description": "A demo application for Component-Based CSS Architecture",
+  "author": "Jeremy McDuffie",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmmcduffie/component-based-css-architecture.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jmmcduffie/component-based-css-architecture/issues"
+  },
+  "homepage": "https://github.com/jmmcduffie/component-based-css-architecture"
+}
